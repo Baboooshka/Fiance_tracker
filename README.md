@@ -1,7 +1,7 @@
 # Fiance_tracker
 Hey Pirates! I've built an expense tracker that automatically scans your email for bank transaction alerts and records your personal expenses into a Google Sheet. This is my first project so I hope you guys would like it.
 
-The best thing about it is that it is *completly private*. So you can have the peace of mind that even though it is scaning your email only you are the one it is reporting to.
+The best thing about it is that it is **completly private**. So you can have the peace of mind that even though it is scaning your email only you are the one it is reporting to.
 
 ## **Technolgy used**
 
